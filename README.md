@@ -1,3 +1,3 @@
-# Quiz - updated something here 06.04.2022 15:09
+# Quiz - updated 2
 
 Bu loyiha Git dasturlash tilini o'rganish maqsadida ochildi!
